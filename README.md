@@ -45,37 +45,37 @@ Analyze NovaPay’s marketing campaign data using exploratory data analysis to i
 
 6. **Which customer segments have the highest and lowest marketing conversion rates?**
 
-* *students (around 30%) and retired workers (around 23%) have the highest conversion rates while manual worker (around 7%), domestic workers (around 9%) and business owners (around 9%) have lowest marketing conversion rates.*
+* *Students (around 30%) and retired workers (around 23%) have the highest conversion rates while manual worker (around 7%), domestic workers (around 9%) and business owners (around 9%) have lowest marketing conversion rates.*
 
 <img src="https://raw.githubusercontent.com/virtual-arin/Fintech-Marketing-Analytics/main/images/6.occupation_vs_conversion_status.png" width="100%">
 
 7. **How does customer age influence the likelihood of subscribing to NovaPay’s financial product?**
 
-* *customers whose age is between 33 to 53 are more likely to be converted*
+* *Customers whose age is between 33 to 53 are more likely to be converted*
 
 <img src="https://raw.githubusercontent.com/virtual-arin/Fintech-Marketing-Analytics/main/images/7.age_vs_conversion_status.png" width="100%">
 
 8. **Which marital status segments generate the highest conversion rates?**
 
-* *customers who are married are more likely to convert (approx 6.1%) and customers who are single are yet still likely to convert (4.2%).*
+* *Customers who are married are more likely to convert (approx 6.1%) and customers who are single are yet still likely to convert (4.2%).*
 
 <img src="https://raw.githubusercontent.com/virtual-arin/Fintech-Marketing-Analytics/main/images/8.marital_status_vs_conversion_status.png" width="100%">
 
 9. **Does education level have a meaningful relationship with customer conversion?**
 
-* *college has the highest conversion rate (approx 15%).elementary school has the lowest conversion performance (approx 8%). Across every single education_level, over 80% of the customer remains unconverted.*
+* *College has the highest conversion rate (approx 15%).elementary school has the lowest conversion performance (approx 8%). Across every single education_level, over 80% of the customer remains unconverted.*
 
 <img src="https://raw.githubusercontent.com/virtual-arin/Fintech-Marketing-Analytics/main/images/9.education_level_vs_conversion_status.png" width="100%">
 
 10. **Which marketing contact method produces the highest conversion rate?**
 
-* *mobile has the highest conversion rate meanwhile across all three channels (landline, mobile, unidentified), the majority of customers remain not_converted.*
+* *Mobile has the highest conversion rate meanwhile across all three channels (landline, mobile, unidentified), the majority of customers remain not_converted.*
 
 <img src="https://raw.githubusercontent.com/virtual-arin/Fintech-Marketing-Analytics/main/images/10.communication_channel_vs_conversion_status.png" width="100%">
 
 11. **Which months or campaign periods generate the strongest and weakest conversion performance?**
 
-* *customers who were called in the month of may generates the highest conversion rate followed by june, july and august. customers who were called in the month of december and january generates the least conversion. Meanwhile a majority of customers remains not_converted.*
+* *Customers who were called in the month of may generates the highest conversion rate followed by june, july and august. customers who were called in the month of december and january generates the least conversion. Meanwhile a majority of customers remains not_converted.*
 
 <img src="https://raw.githubusercontent.com/virtual-arin/Fintech-Marketing-Analytics/main/images/11.call_month_vs_conversion_status.png" width="100%">
 
@@ -93,16 +93,23 @@ Analyze NovaPay’s marketing campaign data using exploratory data analysis to i
 
 14. **Which customer characteristics are most strongly associated with successful conversions?**
 
-* *students and retired workers shows top converting occupations.*
-* *age groups of 65+ and <25 shows high conversion rates.*
-* *college individuals show the highest academic conversion rates.*
-* *single marital status shows better conversion rates than divorce and married.*
+* *Students and retired workers shows top converting occupations.*
+* *Age groups of 65+ and <25 shows high conversion rates.*
+* *College individuals show the highest academic conversion rates.*
+* *Single marital status shows better conversion rates than divorce and married.*
 
 <img src="https://raw.githubusercontent.com/virtual-arin/Fintech-Marketing-Analytics/main/images/14.successfull_conversion_rates.png" width="100%">
 
 15. **Based on the analysis, which customer segments and marketing strategies should NovaPay prioritize to improve overall conversion rates?**
 
-* **Customer Segments:** *target students and the 65+ age group, as they shows the highest conversion rates and also focus on individuals with a college education and those who are single.*
-* **Marketing Strategies:** *prioritize mobile communication channels over landlines. schedule campaigns heavily during march, december, and september, while keeping call durations short for optimal efficiency.*
+* **Customer Segments:** *Target students and the 65+ age group, as they shows the highest conversion rates and also focus on individuals with a college education and those who are single.*
+* **Marketing Strategies:** *Prioritize mobile communication channels over landlines. schedule campaigns heavily during march, december, and september, while keeping call durations short for efficiency.*
 
 <img src="https://raw.githubusercontent.com/virtual-arin/Fintech-Marketing-Analytics/main/images/15.Important_Feature_Analysis.png" width="100%">
+
+## 📢 Final Recommendation — NovaPay
+- Target students and retired customers because they show higher conversion rates.
+- Focus more on customers with college-level education.
+- Give more attention to single customers based on the analysis.
+- Prefer mobile communication over landline.
+- Avoid calling the same customer too many times.
