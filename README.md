@@ -94,11 +94,8 @@ Analyze NovaPay’s marketing campaign data using exploratory data analysis to i
 14. **Which customer characteristics are most strongly associated with successful conversions?**
 
 * *students and retired workers shows top converting occupations.*
-
 * *age groups of 65+ and <25 shows high conversion rates.*
-
 * *college individuals show the highest academic conversion rates.*
-
 * *single marital status shows better conversion rates than divorce and married.*
 
 <img src="https://raw.githubusercontent.com/virtual-arin/Fintech-Marketing-Analytics/main/images/14.successfull_conversion_rates.png" width="100%">
@@ -106,7 +103,6 @@ Analyze NovaPay’s marketing campaign data using exploratory data analysis to i
 15. **Based on the analysis, which customer segments and marketing strategies should NovaPay prioritize to improve overall conversion rates?**
 
 * **Customer Segments:** *target students and the 65+ age group, as they shows the highest conversion rates and also focus on individuals with a college education and those who are single.*
-
 * **Marketing Strategies:** *prioritize mobile communication channels over landlines. schedule campaigns heavily during march, december, and september, while keeping call durations short for optimal efficiency.*
 
 <img src="https://raw.githubusercontent.com/virtual-arin/Fintech-Marketing-Analytics/main/images/15.Important_Feature_Analysis.png" width="100%">
