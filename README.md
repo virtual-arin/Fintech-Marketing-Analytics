@@ -107,7 +107,7 @@ Analyze NovaPay’s marketing campaign data using exploratory data analysis to i
 
 <img src="https://raw.githubusercontent.com/virtual-arin/Fintech-Marketing-Analytics/main/images/15.Important_Feature_Analysis.png" width="100%">
 
-## 📢 Final Recommendation — NovaPay
+## 📢 Final Recommendations
 - Target students and retired customers because they show higher conversion rates.
 - Focus more on customers with college-level education.
 - Give more attention to single customers based on the analysis.
