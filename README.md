@@ -1,36 +1,25 @@
 # Fintech-Marketing-Analytics 📢
 
-**-----**
-
 ## 💰 Industry Domain
 
 Fintech — Digital Banking & Financial Services
-
-**-----**
 
 ## 🏢 About the Company
 
 NovaPay is a fintech company providing digital banking, savings, and financial products to retail customers. Its marketing team runs targeted campaigns to increase customer adoption of financial products. Management wants analysts to understand customer behavior, campaign performance, and the characteristics associated with successful marketing conversions.
 
-**-----**
-
 ## 🤔 Problem Statement
 
 NovaPay’s marketing campaigns generate large numbers of customer interactions, but conversion rates vary significantly across customer segments and campaign conditions. The company lacks clear evidence about which customer characteristics, contact methods, and campaign factors contribute to successful product subscriptions.
 
-**-----**
 
 ## 🎯 Objective
 
 Analyze NovaPay’s marketing campaign data using exploratory data analysis to identify customer segments, campaign patterns, conversion drivers, and underperforming areas. Develop actionable recommendations for improving targeting, communication strategies, campaign efficiency, and customer conversion rates using data-driven visualizations and statistical insights.
 
-**-----**
-
 ## 📈 Data Source
 
 [Bank Marketing Campaign Dataset](https://www.kaggle.com/datasets/yaminh/bank-marketing-campaign-dataset)
-
-**-----**
 
 ## 🤔 Business Questions
 
